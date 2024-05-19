@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/mhimbarbuana.plainlit-lwdon83k",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve dIEtR2KowZBCKdUkH3Vt --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
